@@ -42,6 +42,10 @@ https://github.com/VictorThales/Mqtt_Use_Example/blob/main/Mqtt.ino
 
 ![1605657509003](https://cdn.discordapp.com/attachments/689821241023922194/786341183160713216/20201209_181830.jpg)
 
+### Como ficou a dashboard 👀
+
+![dashboard](https://cdn.discordapp.com/attachments/689821241023922194/786343187660668998/Screenshot_20201209-182619_MQTT_Dash.jpg)
+
 ### Referências 
 
 O projeto original pertence a Pedro Bertoleti e FilipeFlop - https://www.filipeflop.com/blog/esp32-e-mqtt-dashboard-android/

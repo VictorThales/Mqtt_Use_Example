@@ -44,4 +44,4 @@ https://github.com/VictorThales/Mqtt_Use_Example/blob/main/Mqtt.ino
 
 ### Referências 
 
-O projeto original pertence a Pedro Bertoleti e FilipeFlo - https://www.filipeflop.com/blog/esp32-e-mqtt-dashboard-android/
+O projeto original pertence a Pedro Bertoleti e FilipeFlop - https://www.filipeflop.com/blog/esp32-e-mqtt-dashboard-android/

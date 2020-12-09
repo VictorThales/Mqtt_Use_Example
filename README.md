@@ -2,25 +2,19 @@
 
 # ABP Iot Aplicada
 
-Trabalho desenvolvido pelos alunos Victor Thales Pereira de Limas e Gustavo Sebastião Scheffer, onde foi utilizado a IDE do arduíno para programar no ESP32 um projeto utilizando MQTT.
+Trabalho desenvolvido pelos alunos Victor Thales Pereira de Limas e Gustavo Sebastião Scheffer, onde foi utilizado a IDE do arduíno para programar no ESP32 um projeto utilizando MQTT, o aplicativo MQTT Dash e o Cloud MQTT Broker dioty.co .
 
 ## Componentes 🛠
 Componentes utilizados: 
 - ESP 32
 - Sensor de temperatura DHT11
-- Sensor ultrassônico HC-SR04
+- Led RGB
 - Resistor 220 Ω
 - Jumpers
 
-### Inicialmente configure o seu projeto
+### Configurando o arduíno:
 
-* Navegue até a pasta do projeto, utilizando o console do SDK (ESP-IDF Command Prompt) e rode o comando abaixo.
-```
-idf.py menuconfig
-```
-### Após rodar o comando a seguinte tela deve aparecer:
-
-![menuconfig](https://media.discordapp.net/attachments/689821241023922194/778958810760347648/Captura_de_tela_2020-11-19_091908.png?width=891&height=475)
+![menuconfig] (https://media.discordapp.net/attachments/689821241023922194/786334688012009482/unknown.png)
 
 ### Acesse `Example Configuration` .
 

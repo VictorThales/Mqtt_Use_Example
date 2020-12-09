@@ -1,8 +1,8 @@
 <img alt="GoStack" src="https://lh6.googleusercontent.com/proxy/K5fmOf83OCmcXLL6A8C661JiY_kCgEehnEzR8zyhludeemsL9n4R3vq1Q2aQBN_Vvd1PucGHzvY21aQNl_mvkhHDVNTAeFlgTLxVWaAQ4_eX" />
 
-# Nome do projeto
+# ABP Iot Aplicada
 
-O aplicativo desenvolvido pelos alunos Victor Thales Pereira de Limas e Gustavo Sebastião Scheffer cria um socket TCP com uma porta especificada e aguarda uma solicitação de conexão do cliente. Depois de aceitar a solicitação do cliente, a conexão entre o servidor e o cliente é estabelecida e o aplicativo aguarda os dados que serão enviados pelo cliente. Os dados enviados são processados como texto ASCII e retorna a resposta ao cliente cuja oque foi solicitado. Neste exemplo o cliente irá enviar TEMP, UMID ou DIST, e o aplicativo retornará os valores respectivos de cada sensor.
+Trabalho desenvolvido pelos alunos Victor Thales Pereira de Limas e Gustavo Sebastião Scheffer, onde foi utilizado a IDE do arduíno para programar no ESP32 um projeto utilizando MQTT.
 
 ## Componentes 🛠
 Componentes utilizados: 

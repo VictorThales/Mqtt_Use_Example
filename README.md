@@ -14,7 +14,7 @@ Componentes utilizados:
 
 ### Configurando o arduíno:
 
-![menuconfig] (https://media.discordapp.net/attachments/689821241023922194/786334688012009482/unknown.png)
+![idearduino](https://media.discordapp.net/attachments/689821241023922194/786334688012009482/unknown.png)
 
 ### Acesse `Example Configuration` .
 

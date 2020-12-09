@@ -22,9 +22,7 @@ Cole o seguinte link `https://dl.espressif.com/dl/package_esp32_index.json` no c
 
 ![idearduino](https://cdn.discordapp.com/attachments/689821241023922194/786335690912038952/unknown.png)
 
-### Configure a Porta `Port`, caso queira, ou  pode deixar a padrão que está executando na porta 3333.
-
-Retorne a tela anterior.
+### Baixe e instale o aplicativo `MQTT Dash` direto na PLay store. 📲
 
 ### Acesse `Example Connection Configuration` .
 

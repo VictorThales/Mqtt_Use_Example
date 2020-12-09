@@ -22,7 +22,11 @@ Cole o seguinte link `https://dl.espressif.com/dl/package_esp32_index.json` no c
 
 ![idearduino](https://cdn.discordapp.com/attachments/689821241023922194/786335690912038952/unknown.png)
 
-### Baixe e instale o aplicativo `MQTT Dash` direto na PLay store. 📲
+### Criando sua conta no http://www.dioty.co/
+
+![conta](https://cdn.discordapp.com/attachments/689821241023922194/786340378335772743/unknown.png)
+
+### Baixe e instale o aplicativo `MQTT Dash` direto na Play store. 📲
 
 Para a configuração do MQTT Dash siga os passos desse tutorial 👉🏻 https://www.filipeflop.com/blog/esp32-e-mqtt-dashboard-android/.
 

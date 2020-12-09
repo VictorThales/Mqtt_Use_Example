@@ -14,7 +14,7 @@ Componentes utilizados:
 
 ### Configurando o arduíno:
 
-Vá até a aba `arquivos` e logo após acesse `preferências`
+Vá até a aba `Arquivo` e logo após acesse `Preferências`
 
 ![idearduino](https://media.discordapp.net/attachments/689821241023922194/786334688012009482/unknown.png)
 
@@ -23,6 +23,8 @@ Cole o seguinte link `https://dl.espressif.com/dl/package_esp32_index.json` no c
 ![idearduino](https://cdn.discordapp.com/attachments/689821241023922194/786335690912038952/unknown.png)
 
 ### Baixe e instale o aplicativo `MQTT Dash` direto na PLay store. 📲
+
+Para a configuração do MQTT Dash siga os passos desse tutorial 👉🏻 https://www.filipeflop.com/blog/esp32-e-mqtt-dashboard-android/.
 
 ### Acesse `Example Connection Configuration` .
 

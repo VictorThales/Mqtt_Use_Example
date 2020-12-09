@@ -17,13 +17,13 @@
  
  
 /* Definições do LED */
-#define PIN_LED     13
+#define PIN_LED  13//GPIO que está ligado o pino de dados do sensor
  
 /* Definicoes do sensor DHT22 */
-#define DHTPIN 5    //GPIO que está ligado o pino de dados do sensor
+#define DHTPIN  5//GPIO que está ligado o pino de dados do sensor
  
 //#define DHTTYPE DHT11
-#define DHTTYPE DHT11   //sensor em utilização: DHT22
+#define DHTTYPE DHT11   //sensor em utilização: DHT11
 //#define DHTTYPE DHT21
  
 /* Defines do MQTT */

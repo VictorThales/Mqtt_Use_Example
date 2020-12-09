@@ -34,15 +34,6 @@ Para a configuração do MQTT Dash siga os passos desse tutorial 👉🏻 https:
 
 ![Redeconfig](https://cdn.discordapp.com/attachments/689821241023922194/786339923506626600/Screenshot_20201209-181233_MQTT_Dash.jpg)
 
-
-### Exemplos dos comandos enviados.
-
-![req](https://media.discordapp.net/attachments/689821241023922194/778955507419185162/TEMP.png?width=845&height=475)
-![req](https://media.discordapp.net/attachments/689821241023922194/778955510145220618/umid.png?width=845&height=475)
-![req](https://media.discordapp.net/attachments/689821241023922194/778955494454460416/dist.png?width=845&height=475)
-
-
 ### Montagem
 
-![1605657509003](https://media.discordapp.net/attachments/689821241023922194/778964352933036042/image0.jpg?width=356&height=475)
-![1605657508995](https://media.discordapp.net/attachments/689821241023922194/778964354690580480/image2.jpg?width=356&height=475)
+![1605657509003](https://cdn.discordapp.com/attachments/689821241023922194/786341183160713216/20201209_181830.jpg)

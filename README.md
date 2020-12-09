@@ -44,7 +44,7 @@ https://github.com/VictorThales/Mqtt_Use_Example/blob/main/Mqtt.ino
 
 ### Como ficou a dashboard 👀
 
-![dashboard](https://cdn.discordapp.com/attachments/689821241023922194/786343187660668998/Screenshot_20201209-182619_MQTT_Dash.jpg)
+![dashboard](https://cdn.discordapp.com/attachments/689821241023922194/786357421927825428/Screenshot_20201209-192220_MQTT_Dash.jpg)
 
 ### Referências 
 

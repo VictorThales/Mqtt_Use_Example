@@ -4,7 +4,7 @@
 
 O aplicativo desenvolvido pelos alunos Victor Thales Pereira de Limas e Gustavo Sebastião Scheffer cria um socket TCP com uma porta especificada e aguarda uma solicitação de conexão do cliente. Depois de aceitar a solicitação do cliente, a conexão entre o servidor e o cliente é estabelecida e o aplicativo aguarda os dados que serão enviados pelo cliente. Os dados enviados são processados como texto ASCII e retorna a resposta ao cliente cuja oque foi solicitado. Neste exemplo o cliente irá enviar TEMP, UMID ou DIST, e o aplicativo retornará os valores respectivos de cada sensor.
 
-## Componentes
+## Componentes 🛠
 Componentes utilizados: 
 - ESP 32
 - Sensor de temperatura DHT11

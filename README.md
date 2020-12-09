@@ -14,7 +14,11 @@ Componentes utilizados:
 
 ### Configurando o arduíno:
 
+Vá até a aba `arquivos` e logo após acesse `preferências`
+
 ![idearduino](https://media.discordapp.net/attachments/689821241023922194/786334688012009482/unknown.png)
+
+Cole o seguinte link `https://dl.espressif.com/dl/package_esp32_index.json` no campo URLS ADICIONAIS...
 
 ### Acesse `Example Configuration` .
 

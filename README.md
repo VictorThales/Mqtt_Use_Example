@@ -26,43 +26,10 @@ Cole o seguinte link `https://dl.espressif.com/dl/package_esp32_index.json` no c
 
 Para a configuração do MQTT Dash siga os passos desse tutorial 👉🏻 https://www.filipeflop.com/blog/esp32-e-mqtt-dashboard-android/.
 
-### Acesse `Example Connection Configuration` .
+### Configuração de conexão utilizada no projeto. ⚙️
 
-![Redeconfig](https://media.discordapp.net/attachments/689821241023922194/778959451876884520/unknown.png?width=845&height=475)
+![Redeconfig](https://cdn.discordapp.com/attachments/689821241023922194/786339923506626600/Screenshot_20201209-181233_MQTT_Dash.jpg)
 
-### Configure o Nome de sua rede `WiFi SSID`. 
-### Configure A Senha da sua rede `WiFi Password`.
-### Após os procedimentos. Salve as alteraçoes e saia do menuconfig..
-
-### Build and Flash
-
-Ainda na pasta do projeto, com seu console do SDK (ESP-IDF Command Prompt) 
-Com tudo configurado conforme passado nos passos acima, execute a ferramenta de monitoramento para visualizar a saída serial utilizando o comando:
-
-```
-idf.py -p PORT flash monitor
-```
-
-### Após rodar o comando a seguinte tela deve aparecer:
-
-![rodando](https://media.discordapp.net/attachments/689821241023922194/778960988601843732/unknown.png?width=845&height=475)
-
-### Conectado!
-
-#### Localize o `IP` que o servidor obteve e em sequência a `Porta` que definimos, pois será usado para estabelecer a conexão com o Cliente
-
-### Para estabelecer a conexão cliente/servidor foi usado o Realterm.
-
-### Com o RealTerm aberto vá até a Aba `Port`.
-
-![realterm1](https://media.discordapp.net/attachments/689821241023922194/778961622202449920/unknown.png?width=845&height=475)
-
-### Na Aba Port. Prencha o campo `Port` com `IP:PORT` obtidos anteriormente no terminal. 
-Após isto Clique! em Open para fazer a conexão
-
-### Conexão Cliente/Servidor estabelecida.
-
-### Para testar o funcionamento pode enviar seus códigos ASCII ao servidor, como predefinidos antes, utilize `TEMP`, `UMID`, ou `DIST`.
 
 ### Exemplos dos comandos enviados.
 

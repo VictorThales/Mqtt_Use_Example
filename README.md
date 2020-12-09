@@ -20,9 +20,7 @@ Vá até a aba `arquivos` e logo após acesse `preferências`
 
 Cole o seguinte link `https://dl.espressif.com/dl/package_esp32_index.json` no campo URLS ADICIONAIS...
 
-### Acesse `Example Configuration` .
-
-![port](https://user-images.githubusercontent.com/56330822/99081795-190acd00-25a2-11eb-8f07-d66c372a836d.PNG)
+![idearduino](https://cdn.discordapp.com/attachments/689821241023922194/786335690912038952/unknown.png)
 
 ### Configure a Porta `Port`, caso queira, ou  pode deixar a padrão que está executando na porta 3333.
 

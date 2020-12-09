@@ -34,6 +34,14 @@ Para a configuração do MQTT Dash siga os passos desse tutorial 👉🏻 https:
 
 ![Redeconfig](https://cdn.discordapp.com/attachments/689821241023922194/786339923506626600/Screenshot_20201209-181233_MQTT_Dash.jpg)
 
+### Código do Projeto
+
+https://github.com/VictorThales/Mqtt_Use_Example/blob/main/Mqtt.ino
+
 ### Montagem
 
 ![1605657509003](https://cdn.discordapp.com/attachments/689821241023922194/786341183160713216/20201209_181830.jpg)
+
+### Referências 
+
+O projeto original pertence a Pedro Bertoleti e FilipeFlo - https://www.filipeflop.com/blog/esp32-e-mqtt-dashboard-android/

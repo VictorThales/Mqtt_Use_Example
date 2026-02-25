@@ -2,7 +2,7 @@
 
 # ABP Iot Aplicada 🚀
 
-Trabalho desenvolvido pelos alunos Victor Thales Pereira de Limas e Gustavo Sebastião Scheffer, onde foi utilizado a IDE do arduíno para programar no ESP32 um projeto utilizando MQTT, o aplicativo MQTT Dash e o Cloud MQTT Broker dioty.co .
+Trabalho desenvolvido pelos alunos Victor Thales e Gustavo S S, onde foi utilizado a IDE do arduíno para programar no ESP32 um projeto utilizando MQTT, o aplicativo MQTT Dash e o Cloud MQTT Broker dioty.co .
 
 ## Componentes 🛠
 Componentes utilizados: 

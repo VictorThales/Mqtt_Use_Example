@@ -5,7 +5,6 @@
 Trabalho desenvolvido pelos alunos Victor Thales e Gustavo S S, onde foi utilizado a IDE do arduíno para programar no ESP32 um projeto utilizando MQTT, o aplicativo MQTT Dash e o Cloud MQTT Broker dioty.co .
 
 ## Componentes 🛠
-Componentes utilizados: 
 - ESP 32
 - Sensor de temperatura DHT11
 - Led RGB
